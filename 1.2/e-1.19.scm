@@ -36,7 +36,7 @@
 ; the same for 1st and 2nd application it gets obvious that 
 ;
 ; p' = p^2 + q^2
-; q' = 2pq + q^
+; q' = 2pq + q^2
 ;
 ; @see http://www.kendyck.com/archives/2005/05/13/solution-to-sicp-exercise-119/
 ;
